@@ -1,0 +1,12 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive keys (Even if using Ollama, keep this for safety)
+.env
+
+# Project specific
+research-complete.txt
+memory-complete.txt
+*.md
